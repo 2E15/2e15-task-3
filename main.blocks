@@ -4,13 +4,7 @@
         . . # . . 
         . . # . . 
         . # # # .
-        `</field><next><block type="device_show_leds" id="f#WP$97@o[Iy[6jMq|Jb"><field name="LEDS">`
-        # # # # # 
-        . # . # . 
-        . # . # . 
-        . # . # . 
-        # # # # #
-        `</field><next><block type="device_show_leds" id="zkFV7H=nU:LnMc+x+J/]"><field name="LEDS">`
+        `</field><next><block type="device_print_message" id=",;siPJ${y0`ipm*7HNBR"><value name="text"><shadow type="text" id="URXq8Z#`H*5N(ux1CPru"><field name="TEXT">two</field></shadow></value><next><block type="device_show_leds" id="zkFV7H=nU:LnMc+x+J/]"><field name="LEDS">`
         # # # # # 
         . . . . . 
         . # # # . 
